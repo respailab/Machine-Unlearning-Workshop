@@ -35,6 +35,8 @@ This repository brings together state-of-the-art projects and resources for expl
 Machine unlearning refers to techniques that enable a trained machine learning model to **forget** or **remove** the influence of specific data points, often for privacy, compliance, or fairness reasons.  
 This workshop provides hands-on resources to learn, experiment, and innovate in this emerging field.
 
+> Take a look to gain overall idea of unlearning - [Machine unlearning demo]("https://machine-unlearning-two.vercel.app/")
+
 ---
 
 ## 📂 Folder Structure
@@ -60,7 +62,6 @@ Feel free to open issues or pull requests for improvements.
 ## 📢 Acknowledgements
 
 - [respailab](https://github.com/respailab) for maintaining the original repositories.
-- All contributors to the included projects.
 
 ---
 
