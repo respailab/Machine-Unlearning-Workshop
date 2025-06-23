@@ -1,0 +1,12 @@
+[submodule "bad-teaching-unlearning"]
+	path = bad-teaching-unlearning
+	url = https://github.com/respailab/bad-teaching-unlearning
+[submodule "zero-shot-unlearning"]
+	path = zero-shot-unlearning
+	url = https://github.com/respailab/zero-shot-unlearning.git
+[submodule "deep-regression-unlearning"]
+	path = deep-regression-unlearning
+	url = https://github.com/respailab/deep-regression-unlearning.git
+[submodule "Fast-Machine-Unlearning"]
+	path = Fast-Machine-Unlearning
+	url = https://github.com/respailab/Fast-Machine-Unlearning.git
